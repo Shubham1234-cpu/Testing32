@@ -13,6 +13,12 @@ public class Demo1 {
 
 	public void m2(){
 		System.out.println("m2 of demo1");
+	}
+
+	public void m3(){
+		System.out.println("m3 of demo 1");
+	}
 
 }
+
 
